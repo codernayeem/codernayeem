@@ -4,7 +4,7 @@
 
 <a><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=codernayeem&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Nayeem's GitHub Streak Stats" /></a>  
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=codernayeem&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=codernayeem&show_icons=true&include_all_commits=false&theme=tokyonight&hide_border=true" />
 </a>
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codernayeem&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=320" />
